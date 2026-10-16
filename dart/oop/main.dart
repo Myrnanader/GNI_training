@@ -1,3 +1,4 @@
+import 'models/employee.dart';
 import 'models/student.dart';
 import 'models/rectangle.dart';
 import 'models/bank_account.dart';
@@ -48,4 +49,12 @@ void main() {
   b1.borrowBook(); // Error
   b1.returnBook();
   b1.returnBook(); // Error
+
+
+  // task
+  Employee emp = Employee("Myrna Nader", 1025, 8500);
+
+  emp.displayInfo();       
+  emp.addBonus(2000);     
+  emp.calculateSalary();
 }
