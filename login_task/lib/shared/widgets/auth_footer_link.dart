@@ -2,7 +2,6 @@ import 'package:flutter/material.dart';
 
 import '../../core/theme/app_text_styles.dart';
 
-/// "Don't have an account? SignUp" style line.
 class AuthFooterLink extends StatelessWidget {
   const AuthFooterLink({
     super.key,

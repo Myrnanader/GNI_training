@@ -2,13 +2,10 @@ import 'package:flutter/material.dart';
 
 import '../../core/theme/app_colors.dart';
 
-/// Common scaffold: light background, safe area, scrolls when keyboard opens.
 class AuthScaffold extends StatelessWidget {
   const AuthScaffold({super.key, required this.child, this.bottom});
 
   final Widget child;
-
-  /// Pinned to the bottom of the screen (button + footer link).
   final Widget? bottom;
 
   @override

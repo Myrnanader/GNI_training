@@ -6,7 +6,6 @@ import 'app_colors.dart';
 class AppTextStyles {
   AppTextStyles._();
 
-  /// Lemon - big titles ("Welcome Back", "Get Started").
   static TextStyle get title => GoogleFonts.lemon(
         fontSize: 28,
         color: AppColors.primary,
