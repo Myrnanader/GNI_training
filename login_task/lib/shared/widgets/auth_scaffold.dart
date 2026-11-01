@@ -25,7 +25,7 @@ class AuthScaffold extends StatelessWidget {
                     const Spacer(),
                     
                     const SizedBox(height: 32),
-                    if (bottom != null) bottom!,
+                    ?bottom,
                     const SizedBox(height: 40),
                   ],
                 ),

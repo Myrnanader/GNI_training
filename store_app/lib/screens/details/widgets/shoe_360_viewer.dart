@@ -88,7 +88,7 @@ class _EllipsePainter extends CustomPainter {
   @override
   void paint(Canvas canvas, Size size) {
     final paint = Paint()
-      ..color = AppColors.primary.withOpacity(0.7)
+      ..color = AppColors.primary.withValues(alpha: 0.7)
       ..style = PaintingStyle.stroke
       ..strokeWidth = 1;
     canvas.drawOval(Offset.zero & size, paint);
