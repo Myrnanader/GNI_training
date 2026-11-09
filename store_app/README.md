@@ -1,17 +1,37 @@
-# store_app
+# 👟 Sneaker Store — Footwear E-Commerce App
 
-A new Flutter project.
+<div align="center">
 
-## Getting Started
+[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev)
+[![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev)
+[![Responsive](https://img.shields.io/badge/Responsive-Custom_Utility-orange?style=for-the-badge)]()
 
-This project is a starting point for a Flutter application.
+**A stylish footwear shopping application featuring interactive 360° product exploration, multi-angle gallery, and responsive layout calculation.**
 
-A few resources to get you started if this is your first Flutter project:
+</div>
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📱 Features
+
+* **🏬 Storefront Catalog (`HomeScreen`):**
+  * Product grid with tags, pricing, and discount indicators.
+  * Category navigation and section headers.
+* **🔄 Interactive 360° Viewer (`Shoe360Viewer`):**
+  * Inspect shoes from multiple angles with swipe gestures.
+* **🖼️ Multi-Angle Gallery (`GallerySection`, `GalleryThumbnail`):**
+  * Thumbnail carousel for rapid photo inspection.
+* **📐 Custom Responsive Engine (`R.init`):**
+  * Proportional layout calculation for smooth scaling across screen sizes.
+* **🛍️ Floating Cart Bar (`BottomCartBar`):**
+  * Quick-action bar with total price indicator and primary add-to-cart CTA.
+
+---
+
+## 🚀 Getting Started
+
+```bash
+cd store_app
+flutter pub get
+flutter run
+```

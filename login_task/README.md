@@ -1,17 +1,33 @@
-# login_task
+# ✈️ Travel Auth — Authentication & Onboarding Flow
 
-A new Flutter project.
+<div align="center">
 
-## Getting Started
+[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev)
+[![Google Fonts](https://img.shields.io/badge/Typography-Google_Fonts-blue?style=for-the-badge)](https://pub.dev/packages/google_fonts)
 
-This project is a starting point for a Flutter application.
+**A clean, production-ready authentication UI for travel and lifestyle apps with named route navigation and custom design system widgets.**
 
-A few resources to get you started if this is your first Flutter project:
+</div>
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📱 Screens & Features
+
+* **🔑 Sign In Screen (`LoginScreen`):** Validated email/password form with password obscuring toggle.
+* **📝 Sign Up Screen (`SignupScreen`):** Registration form with terms agreement and navigation links.
+* **🔒 Forgot Password Screen (`ForgotPasswordScreen`):** Password reset request flow.
+* **🎨 Shared Design System:**
+  * `AuthScaffold` providing unified background, layout padding, and status bar handling.
+  * `AppTextField` with custom focus borders, hint styles, and prefix/suffix icon slots.
+  * Typography powered by `google_fonts`.
+  * Centralized named routing via `AppRoutes`.
+
+---
+
+## 🚀 Getting Started
+
+```bash
+cd login_task
+flutter pub get
+flutter run
+```
