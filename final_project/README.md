@@ -73,31 +73,6 @@ lib/
 
 ---
 
-## 🚀 Getting Started
-
-### Prerequisites
-* Flutter SDK (`>= 3.13.2`)
-* Dart SDK (`>= 3.1.0`)
-
-### Installation & Run
-
-1. Navigate to this directory:
-   ```bash
-   cd final_project
-   ```
-
-2. Fetch dependencies:
-   ```bash
-   flutter pub get
-   ```
-
-3. Run the app:
-   ```bash
-   flutter run
-   ```
-
----
-
 <div align="center">
 Developed by <b>Myrna Nader</b> as part of the GNI Mobile Development Internship.
 </div>

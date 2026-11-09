@@ -10,7 +10,7 @@
 
 **A comprehensive showcase of projects, practical tasks, and fundamental problem sets completed during the Mobile Application Development Internship.**
 
-[Explore Projects](#-projects-overview) • [Repository Structure](#-repository-structure) • [Tech Stack](#-technologies--packages) • [Getting Started](#-getting-started)
+[Explore Projects](#-projects-overview) • [Repository Structure](#-repository-structure) • [Tech Stack](#-technologies--packages) • [Author](#-author)
 
 </div>
 
@@ -144,50 +144,6 @@ GNI_training/
 | **Responsive Design** | [flutter_screenutil](https://pub.dev/packages/flutter_screenutil), Custom Viewport Utilities |
 | **Typography & Assets** | [google_fonts](https://pub.dev/packages/google_fonts), [flutter_svg](https://pub.dev/packages/flutter_svg), [cupertino_icons](https://pub.dev/packages/cupertino_icons) |
 | **Architecture** | Feature-First Architecture, Clean Code Principles, Separation of Concerns |
-
----
-
-## 💻 Getting Started
-
-### Prerequisites
-Make sure you have installed:
-* [Flutter SDK](https://docs.flutter.dev/get-started/install) (`>= 3.13.2`)
-* [Dart SDK](https://dart.dev/get-dart)
-* Android Studio / Xcode / VS Code with Flutter extension
-* An active emulator or physical device
-
-### Running Any Project
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/Myrnanader/GNI_training.git
-   cd GNI_training
-   ```
-
-2. **Navigate to the desired project directory:**
-   ```bash
-   # Example: Running the Final Food Delivery Project
-   cd final_project
-   ```
-
-3. **Install dependencies:**
-   ```bash
-   flutter pub get
-   ```
-
-4. **Launch the application:**
-   ```bash
-   flutter run
-   ```
-
-### Running Dart Standalone Scripts
-You can execute any Dart console program directly from the command line:
-```bash
-# Example: Running the ATM simulation
-dart run dart/control/atm.dart
-
-# Example: Running the OOP Delivery Management System
-dart run "dart/oop/Delivery Management System/main.dart"
-```
 
 ---
 
