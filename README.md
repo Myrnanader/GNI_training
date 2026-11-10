@@ -1,4 +1,4 @@
-# 📱 Flutter & Dart Internship Portfolio (GNI Training)
+# 📱 Flutter & Dart Internship Portfolio (NGI Training)
 
 <div align="center">
 
@@ -18,7 +18,7 @@
 
 ## 📌 Overview
 
-This repository documents the learning journey, hands-on tasks, and capstone applications completed during the **GNI Mobile Development Internship**. The curriculum covers the complete spectrum of mobile development: starting from core **Dart programming** and **Object-Oriented Programming (OOP)** paradigms, advancing through responsive **Flutter UI/UX implementations**, state management with **Provider**, and culminating in a full **Food Delivery Mobile Application** translated from Figma designs.
+This repository documents the learning journey, hands-on tasks, and capstone applications completed during the **NGI Mobile Development Internship**. The curriculum covers the complete spectrum of mobile development: starting from core **Dart programming** and **Object-Oriented Programming (OOP)** paradigms, advancing through responsive **Flutter UI/UX implementations**, state management with **Provider**, and culminating in a full **Food Delivery Mobile Application** translated from Figma designs.
 
 ---
 
@@ -103,7 +103,7 @@ A structured collection of algorithms, data structures, and Object-Oriented desi
 ## 📂 Repository Structure
 
 ```text
-GNI_training/
+NGI_training/
 ├── final_project/           # Capstone: Food Delivery Application
 │   ├── assets/              # Images, icons, and custom fonts (Inter)
 │   └── lib/
@@ -151,7 +151,7 @@ GNI_training/
 
 **Myrna Nader**
 * GitHub: [@Myrnanader](https://github.com/Myrnanader)
-* Repository: [GNI_training](https://github.com/Myrnanader/GNI_training)
+* Repository: [NGI_training](https://github.com/Myrnanader/NGI_training)
 
 ---
 

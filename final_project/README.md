@@ -74,5 +74,5 @@ lib/
 ---
 
 <div align="center">
-Developed by <b>Myrna Nader</b> as part of the GNI Mobile Development Internship.
+Developed by <b>Myrna Nader</b> as part of the NGI Mobile Development Internship.
 </div>
